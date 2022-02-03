@@ -114,7 +114,7 @@
     "BE"
     ],
     "title": "www.McAfee-scanner.com",
-    "descr": "La protection McAfee a expiré !"
+    "descr": "McAfee-beveiliging is verlopen!"
 
   },
 
@@ -126,8 +126,8 @@
     "geo": [
     "BE"
     ],
-    "title": "Alerte de sécurité McAfee..!!",
-    "descr": "Mettez à jour votre antivirus McAfee."
+    "title": "McAfee-beveiligingswaarschuwing..!!",
+    "descr": "Werk uw McAfee-antivirus bij."
 
   },
 
@@ -139,21 +139,21 @@
     "geo": [
     "BE"
     ],
-    "title": "Attention! Virus détecté (3)",
-    "descr": "Mise à jour antivirus requise⚠️"
+    "title": "Aandacht! Virus gevonden (3)",
+    "descr": "Antivirus-update vereist⚠️"
 
   },
 
    {
-
+     
     "icon": "https://ustrack.online/2/55412-14/icon4.png",
     "image": "https://ustrack.online/2/55412-14/image4.png",
     "bid": 0.1,
     "geo": [
     "BE"
     ],
-    "title": "⚠️️ Activez votre McAfee !",
-    "descr": "Cliquez ici pour renouveler et rester protégé"
+    "title": "⚠️️ ️ Activeer uw McAfee!",
+    "descr": "Klik hier om uw pc-beveiliging te vernieuwen"
 
   }
 
